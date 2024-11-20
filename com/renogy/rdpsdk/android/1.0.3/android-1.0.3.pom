@@ -5,5 +5,5 @@
   <groupId>com.renogy.rdpsdk</groupId>
   <artifactId>android</artifactId>
   <version>1.0.3</version>
-  <packaging>aar</packaging>
+  <packaging>pom</packaging>
 </project>
