@@ -5,5 +5,5 @@
   <groupId>com.renogy.rdpsdk</groupId>
   <artifactId>example</artifactId>
   <version>1.0.4</version>
-  <type>pom</type>
+  <packaging>aar</packaging>
 </project>
